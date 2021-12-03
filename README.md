@@ -10,3 +10,5 @@ To install selenium:
 ```
 pip install selenium==3.141.0
 ```
+
+Full tutorial: https://www.freecodecamp.org/news/how-i-created-a-python-bot-to-automatically-log-into-a-captive-portal-3d4ba04dee9f/
