@@ -1,0 +1,1 @@
+wscript.exe "C:\Users\nurai\Desktop\BAT files\invisible.vbs" "C:\Users\nurai\Desktop\BAT files\wifi.bat"
