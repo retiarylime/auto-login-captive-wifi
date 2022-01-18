@@ -14,9 +14,9 @@ import os
 # website_link="http://10.122.1.76/guest/IIUM_Portal.php?cmd=login&mac=10:02:b5:6f:0e:c3&essid=WiFI%40IIUM-MAHALLAH-2.4GHz&ip=10.122.19.139&apname=F10-L6-AP.04&vcname=instant-CA%3A50%3A56&switchip=securelogin.arubanetworks.com&url=http%3A%2F%2Fwww.gstatic.com%2Fgenerate_204&_browser=1"
 website_link="http://10.122.1.76/guest/IIUM_MSM_2.php?_browser=1"
 #enter your login username
-username="#######"
+username="2013794"
 #enter your login password
-password="********"
+password="K@nderi1206"
 
 ###########################################################
 
