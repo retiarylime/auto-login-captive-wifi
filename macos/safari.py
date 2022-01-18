@@ -15,10 +15,10 @@ import os
 website_link="http://10.122.1.76/guest/IIUM_Portal.php?cmd=login&mac=8c:7a:aa:ea:90:3a&essid=WiFi%40IIUM-MAHALLAH-5GHz&ip=10.122.25.154&apname=F10-L6-AP.05&vcname=instant-CA%3A50%3A56&switchip=securelogin.arubanetworks.com&url=http%3A%2F%2Fcaptive.apple.com%2F&_browser=1"
 
 #enter your login username
-username="2013794"
+username="#######"
 
 #enter your login password
-password="K@nderi1206"
+password="********"
 
 ###########################################################
 
